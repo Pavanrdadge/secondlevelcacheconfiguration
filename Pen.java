@@ -42,9 +42,5 @@ public class Pen implements Serializable {
 		this.cost = cost;
 	}
 
-	public String toString()
-	{
-		return "it is pen class object refercne";
-	}
-
+	
 }
